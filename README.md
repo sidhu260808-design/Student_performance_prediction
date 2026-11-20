@@ -51,3 +51,6 @@ Nandani Rupal
 
 ## Conclusion
 This project demonstrates how Machine Learning can be used to predict student academic performance and help analyze educational data.
+<img width="905" height="368" alt="Screenshot 2026-11-20 154718" src="https://github.com/user-attachments/assets/6e04f78a-5f42-445c-a675-cd782ecb6901" />
+
+<img width="905" height="368" alt="Screenshot 2026-11-20 154718" src="https://github.com/user-attachments/assets/f538b7e6-3d05-4a58-9f4e-c74f5119c53b" />
